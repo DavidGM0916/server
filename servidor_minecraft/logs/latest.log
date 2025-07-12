@@ -4535,3 +4535,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:55:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David123213 lost connection: Disconnected
 [03:55:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David123213 left the game
 [03:55:07] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client David123213
+[03:55:25] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[03:55:25] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 93 mods : cyclopscore@1.6.7,ts2k16@1.2.10,mowziesmobs@1.5.8,astralsorcery@1.10.27,cucumber@1.1.3,supermartijn642configlib@1.1.6,mixinbooter@10.6,netherportalfix@5.3.17,rechiseled@1.1.6,trumpetskeleton@1.12-1.0.2.1,mystagradcompat@1.2,ebwizardry@4.3.14,jei@4.16.1.301,attributefix@1.0.12,chunkpregenerator@4.4.9,doggytalents@1.15.1.6,cofhcore@4.6.6,draconicevolution@2.3.28,thermalcultivation@0.3.6,betternether@0.1.8.6,mekanism@1.12.2-9.8.3.390,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,thermalfoundation@2.6.7,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,placebo@1.6.0,naturescompass@1.8.5,travelersbackpack@1.0.35,evilcraft@0.10.78,stevekung's_lib@1.3.1,neid@1.5.4.4,betteranimalsplus@9.0.1,llibrary@1.7.20,buildinggadgets@2.8.4,cofhworld@1.4.0,iceandfire@1.9.1,mahoutsukai@1.12.2-v1.19.55,additionalstructures@2.5.0,chickens@6.0.4,fusion@1.2.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,guideapi@1.12-2.1.8-63,carryon@1.12.3,hbm@hbm-1.8.4a-G,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,teamlapen-lib@1.6.2,forge@14.23.5.2859,mysticalagradditions@1.3.2,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.13.0,testdummy@2.0.4,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,mcwbridges@1.0.6,enchdesc@1.1.15,voicechat@1.12.2-2.5.34,mousetweaks@2.10,toolbelt@1.9.14,immersiveengineering@0.12-98,biomesoplenty@7.0.1.2445,baubles@1.5.2,redstoneflux@2.1.1,ironfurnaces@1.3.5,supermartijn642corelib@1.1.18,lycanitesmobs@2.0.8.10 - MC 1.12.2,evilcraftcompat@1.0.0,patchouli@1.0-23.6,spartanshields@1.5.5,abyssalcraft@1.11.1,xaerominimap@25.2.6,fastbench@1.7.4,securitycraft@v1.10,galacticraftcore@4.0.7,FML@8.0.99.99,tombstone@4.7.5,fastfurnace@1.3.1,lootr@0.6.2,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,aether_legacy@1.5.4.1,realmrpg_wyrms@0.0.1,codechickenlib@3.2.3.358,bettermineshafts@1.12.2-2.2.1,magic_mirror@1.12.2-0.1.1.427,moreplanets@2.3.3,pots_and_mimics@0.0.2,carbonconfig@1.2.1
+[03:55:25] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[03:55:25] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:55:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:55:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: David123213[/127.93.139.19:60717] logged in with entity id 27867 at (253.02237954152375, 75.0, 83.24670108303727)
+[03:55:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David123213 joined the game
+[03:55:31] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to David123213
+[03:55:31] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player David123213.
+[03:55:31] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for David123213
+[03:55:31] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for David123213
+[03:55:31] [Server thread/INFO] [ebwizardry]: Synchronising config settings for David123213
+[03:55:31] [Server thread/INFO] [ebwizardry]: Synchronising advancements for David123213
+[03:55:31] [Server thread/INFO] [Mekanism]: Sent config to 'David123213.'
+[03:55:31] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for David123213...
+[03:55:31] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to David123213
+[03:55:38] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of David123213 (18)
+[03:55:38] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to David123213
+[03:56:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David123213 lost connection: Disconnected
+[03:56:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David123213 left the game
+[03:56:28] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client David123213
+[04:04:37] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[04:04:37] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 93 mods : cyclopscore@1.6.7,ts2k16@1.2.10,mowziesmobs@1.5.8,astralsorcery@1.10.27,cucumber@1.1.3,supermartijn642configlib@1.1.6,mixinbooter@10.6,netherportalfix@5.3.17,rechiseled@1.1.6,trumpetskeleton@1.12-1.0.2.1,mystagradcompat@1.2,ebwizardry@4.3.14,jei@4.16.1.301,attributefix@1.0.12,chunkpregenerator@4.4.9,doggytalents@1.15.1.6,cofhcore@4.6.6,draconicevolution@2.3.28,thermalcultivation@0.3.6,betternether@0.1.8.6,mekanism@1.12.2-9.8.3.390,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,thermalfoundation@2.6.7,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p3,appliedenergistics2@rv6-stable-7,placebo@1.6.0,naturescompass@1.8.5,travelersbackpack@1.0.35,evilcraft@0.10.78,stevekung's_lib@1.3.1,neid@1.5.4.4,betteranimalsplus@9.0.1,llibrary@1.7.20,buildinggadgets@2.8.4,cofhworld@1.4.0,iceandfire@1.9.1,mahoutsukai@1.12.2-v1.19.55,additionalstructures@2.5.0,chickens@6.0.4,fusion@1.2.7,galacticraftplanets@4.0.7,micdoodlecore@4.0.7,guideapi@1.12-2.1.8-63,carryon@1.12.3,hbm@hbm-1.8.4a-G,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,teamlapen-lib@1.6.2,forge@14.23.5.2859,mysticalagradditions@1.3.2,bloodmagic@1.12.2-2.4.3-105,mysticallib@1.12.2-1.13.0,testdummy@2.0.4,brandonscore@2.4.20,mysticalagriculture@1.7.5,minecraft@1.12.2,mcwbridges@1.0.6,enchdesc@1.1.15,voicechat@1.12.2-2.5.34,mousetweaks@2.10,toolbelt@1.9.14,immersiveengineering@0.12-98,biomesoplenty@7.0.1.2445,baubles@1.5.2,redstoneflux@2.1.1,ironfurnaces@1.3.5,supermartijn642corelib@1.1.18,lycanitesmobs@2.0.8.10 - MC 1.12.2,evilcraftcompat@1.0.0,patchouli@1.0-23.6,spartanshields@1.5.5,abyssalcraft@1.11.1,xaerominimap@25.2.6,fastbench@1.7.4,securitycraft@v1.10,galacticraftcore@4.0.7,FML@8.0.99.99,tombstone@4.7.5,fastfurnace@1.3.1,lootr@0.6.2,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,aether_legacy@1.5.4.1,realmrpg_wyrms@0.0.1,codechickenlib@3.2.3.358,bettermineshafts@1.12.2-2.2.1,magic_mirror@1.12.2-0.1.1.427,moreplanets@2.3.3,pots_and_mimics@0.0.2,carbonconfig@1.2.1
+[04:04:37] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[04:04:37] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[04:04:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:04:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: PonySiSalvaje[/127.146.34.254:54157] logged in with entity id 29539 at (248.74716345172013, 76.0, 89.74872498686403)
+[04:04:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PonySiSalvaje joined the game
+[04:04:43] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to PonySiSalvaje
+[04:04:43] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player PonySiSalvaje.
+[04:04:43] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for PonySiSalvaje
+[04:04:43] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for PonySiSalvaje
+[04:04:43] [Server thread/INFO] [ebwizardry]: Synchronising config settings for PonySiSalvaje
+[04:04:43] [Server thread/INFO] [ebwizardry]: Synchronising advancements for PonySiSalvaje
+[04:04:43] [Server thread/INFO] [Mekanism]: Sent config to 'PonySiSalvaje.'
+[04:04:43] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for PonySiSalvaje...
+[04:04:43] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to PonySiSalvaje
+[04:04:52] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of PonySiSalvaje (18)
+[04:04:52] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to PonySiSalvaje
