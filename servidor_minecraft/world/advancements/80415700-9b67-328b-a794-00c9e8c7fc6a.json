@@ -5,15 +5,15 @@
     },
     "done": true
   },
-  "astralsorcery:root": {
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
-      "astralsorcery_present": "2025-07-12 03:41:10 +0000"
+      "entered_water": "2025-07-12 03:45:50 +0000"
     },
     "done": true
   },
-  "betteranimalsplus:root": {
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
-      "tick": "2025-07-12 03:41:10 +0000"
+      "entered_water": "2025-07-12 03:45:50 +0000"
     },
     "done": true
   },
@@ -23,13 +23,138 @@
     },
     "done": true
   },
-  "galacticraftcore:galacticraft/root": {
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "mysticalworld:root": {
+    "criteria": {
+      "auto": "2025-07-12 03:41:10 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2025-07-12 03:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2025-07-12 03:45:30 +0000",
+      "beaches": "2025-07-12 03:41:49 +0000",
+      "desert_hills": "2025-07-12 03:49:31 +0000",
+      "ocean": "2025-07-12 03:41:10 +0000",
+      "river": "2025-07-12 03:45:36 +0000",
+      "desert": "2025-07-12 03:49:09 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-07-12 03:41:10 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2025-07-12 03:41:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2025-07-12 03:41:10 +0000"
     },
@@ -41,17 +166,28 @@
     },
     "done": true
   },
-  "mysticalworld:root": {
+  "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "auto": "2025-07-12 03:41:10 +0000"
+      "entered_water": "2025-07-12 03:45:50 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
-      "beaches": "2025-07-12 03:41:49 +0000",
-      "ocean": "2025-07-12 03:41:10 +0000"
+      "entered_water": "2025-07-12 03:45:50 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-07-12 03:45:50 +0000"
+    },
+    "done": true
   }
 }
