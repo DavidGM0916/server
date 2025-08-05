@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "85a3bacbd7643854af8ce96e4c39d733"
+	name: "David123213#85a3bacb"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

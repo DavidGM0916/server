@@ -1,0 +1,17 @@
+{
+	id: "85a3bacb-d764-3854-af8c-e96e4c39d733"
+	type: "player"
+	player_name: "David123213"
+	ranks: {
+		85a3bacb-d764-3854-af8c-e96e4c39d733: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "David123213"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFAD59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

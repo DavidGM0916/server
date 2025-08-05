@@ -1,0 +1,588 @@
+========= TaskAnalysisReport =========
+Time: 2025-08-05 02:10:06
+GameVersion: 1.20.1
+ModLoaderVersion: 47.4.4
+Maidsoul KitchenVersion: 0.2.4
+Touhou Little MaidVersion: 1.3.6
+ModState: [Success] Congratulations, there were no problems with this run, and we wish you a great time!
+ActualVersionWithCurrentCompatibleMod：
+- minecraft: 1.20.1
+- farmersdelight: 1.2.8
+- youkaishomecoming: 2.4.16
+- l2harvester: 0.1.0
+
+===== GlobalStatistics =====
+ClassesCount: 25
+MethodCount: 37
+FieldCount: 22
+MixinCount: 4
+Errors: 0
+
+===== TaskDetails =====
+
+## TaskId： maidsoulkitchen:youkaishomecoming_drying_rack_drying_rack、ModId： youkaishomecoming、ModVersion： 2.4.16
+### ClassStatistics
+ClassesCount: 4
+MethodCount: 6
+FieldCount: 2
+MixinCount: 0
+Errors: 0
+
+#### ClassesList
+[Success] com.tterrag.registrate.util.entry.BlockEntry
+[Success] com.tterrag.registrate.util.entry.RegistryEntry
+[Success] dev.xkmc.youkaishomecoming.content.pot.rack.DryingRackBlockEntity
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks
+
+#### MethodsList 
+[Success] com.tterrag.registrate.util.entry.BlockEntry#asStack()Lnet/minecraft/world/item/ItemStack;
+[Success] com.tterrag.registrate.util.entry.RegistryEntry#get()Ljava/lang/Object;
+[Success] com.tterrag.registrate.util.entry.RegistryEntry#getId()Lnet/minecraft/resources/ResourceLocation;
+[Success] dev.xkmc.youkaishomecoming.content.pot.rack.DryingRackBlockEntity#getInventory()Lnet/minecraftforge/items/ItemStackHandler;
+[Success] dev.xkmc.youkaishomecoming.content.pot.rack.DryingRackBlockEntity#getItems()Lnet/minecraft/core/NonNullList;
+[Success] dev.xkmc.youkaishomecoming.content.pot.rack.DryingRackBlockEntity#placeFood(Lnet/minecraft/world/item/ItemStack;I)Z
+
+#### FieldList
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks#RACK
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks#RACK_RT
+
+#### MixinList
+NoMixinsFound
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:farmersdelight_cooking_pot_cooking、ModId： farmersdelight、ModVersion： 1.2.8
+### ClassStatistics
+ClassesCount: 4
+MethodCount: 7
+FieldCount: 3
+MixinCount: 1
+Errors: 0
+
+#### ClassesList
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity
+[Success] vectorwing.farmersdelight.common.crafting.CookingPotRecipe
+[Success] vectorwing.farmersdelight.common.registry.ModItems
+[Success] vectorwing.farmersdelight.common.registry.ModRecipeTypes
+
+#### MethodsList 
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity#getContainer()Lnet/minecraft/world/item/ItemStack;
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity#getInventory()Lnet/minecraftforge/items/ItemStackHandler;
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity#getMeal()Lnet/minecraft/world/item/ItemStack;
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity#getUsedRecipesAndPopExperience(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/phys/Vec3;)Ljava/util/List;
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity#isHeated()Z
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity#kl$canCook(Lnet/minecraftforge/items/IItemHandlerModifiable;Ljava/util/function/Function;Ljava/util/function/Predicate;)Z
+[Success] vectorwing.farmersdelight.common.crafting.CookingPotRecipe#getOutputContainer()Lnet/minecraft/world/item/ItemStack;
+
+#### FieldList
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity#usedRecipeTracker
+[Success] vectorwing.farmersdelight.common.registry.ModItems#COOKING_POT
+[Success] vectorwing.farmersdelight.common.registry.ModRecipeTypes#COOKING
+
+#### MixinList
+[Success] vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:minecraft_furnace_smelting、ModId： minecraft、ModVersion： 1.20.1
+### ClassStatistics
+ClassesCount: 0
+MethodCount: 0
+FieldCount: 0
+MixinCount: 1
+Errors: 0
+
+#### ClassesList
+NoClassesFound
+
+#### MethodsList 
+NoMethodFound
+
+#### FieldList
+NoFieldsFound
+
+#### MixinList
+[Success] net.minecraft.world.level.block.entity.AbstractFurnaceBlockEntity
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:youkaishomecoming_moka_pot_moka_pot、ModId： youkaishomecoming、ModVersion： 2.4.16
+### ClassStatistics
+ClassesCount: 6
+MethodCount: 11
+FieldCount: 3
+MixinCount: 1
+Errors: 0
+
+#### ClassesList
+[Success] com.tterrag.registrate.util.entry.BlockEntry
+[Success] com.tterrag.registrate.util.entry.RegistryEntry
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity
+[Success] dev.xkmc.youkaishomecoming.content.pot.moka.MokaMakerBlockEntity
+[Success] dev.xkmc.youkaishomecoming.content.pot.moka.MokaRecipe
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks
+
+#### MethodsList 
+[Success] com.tterrag.registrate.util.entry.BlockEntry#asStack()Lnet/minecraft/world/item/ItemStack;
+[Success] com.tterrag.registrate.util.entry.RegistryEntry#get()Ljava/lang/Object;
+[Success] com.tterrag.registrate.util.entry.RegistryEntry#getId()Lnet/minecraft/resources/ResourceLocation;
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity#getInventory()Lnet/minecraftforge/items/ItemStackHandler;
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity#getUsedRecipesAndPopExperience(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/phys/Vec3;)Ljava/util/List;
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity#kl$canCook(Lnet/minecraftforge/items/IItemHandlerModifiable;Ljava/util/function/Function;Ljava/util/function/Predicate;)Z
+[Success] dev.xkmc.youkaishomecoming.content.pot.moka.MokaMakerBlockEntity#getContainer()Lnet/minecraft/world/item/ItemStack;
+[Success] dev.xkmc.youkaishomecoming.content.pot.moka.MokaMakerBlockEntity#getInventory()Lnet/minecraftforge/items/ItemStackHandler;
+[Success] dev.xkmc.youkaishomecoming.content.pot.moka.MokaMakerBlockEntity#getMeal()Lnet/minecraft/world/item/ItemStack;
+[Success] dev.xkmc.youkaishomecoming.content.pot.moka.MokaMakerBlockEntity#isHeated()Z
+[Success] dev.xkmc.youkaishomecoming.content.pot.moka.MokaRecipe#getOutputContainer()Lnet/minecraft/world/item/ItemStack;
+
+#### FieldList
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity#usedRecipeTracker
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks#MOKA
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks#MOKA_RT
+
+#### MixinList
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:berry_l2_harvester、ModId： l2harvester、ModVersion： 0.1.0
+### ClassStatistics
+ClassesCount: 2
+MethodCount: 3
+FieldCount: 0
+MixinCount: 0
+Errors: 0
+
+#### ClassesList
+[Success] dev.xkmc.l2harvester.api.HarvestResult
+[Success] dev.xkmc.l2harvester.api.HarvestableBlock
+
+#### MethodsList 
+[Success] dev.xkmc.l2harvester.api.HarvestResult#drops()Ljava/util/List;
+[Success] dev.xkmc.l2harvester.api.HarvestResult#updateState(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;)V
+[Success] dev.xkmc.l2harvester.api.HarvestableBlock#getHarvestResult(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)Ldev/xkmc/l2harvester/api/HarvestResult;
+
+#### FieldList
+NoFieldsFound
+
+#### MixinList
+NoMixinsFound
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:berry_compat、ModId： minecraft、ModVersion： 1.20.1
+### ClassStatistics
+ClassesCount: 0
+MethodCount: 0
+FieldCount: 0
+MixinCount: 0
+Errors: 0
+
+#### ClassesList
+NoClassesFound
+
+#### MethodsList 
+NoMethodFound
+
+#### FieldList
+NoFieldsFound
+
+#### MixinList
+NoMixinsFound
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:youkaishomecoming_kettle_kettle、ModId： youkaishomecoming、ModVersion： 2.4.16
+### ClassStatistics
+ClassesCount: 6
+MethodCount: 12
+FieldCount: 3
+MixinCount: 2
+Errors: 0
+
+#### ClassesList
+[Success] com.tterrag.registrate.util.entry.BlockEntry
+[Success] com.tterrag.registrate.util.entry.RegistryEntry
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleBlockEntity
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleRecipe
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks
+
+#### MethodsList 
+[Success] com.tterrag.registrate.util.entry.BlockEntry#asStack()Lnet/minecraft/world/item/ItemStack;
+[Success] com.tterrag.registrate.util.entry.RegistryEntry#get()Ljava/lang/Object;
+[Success] com.tterrag.registrate.util.entry.RegistryEntry#getId()Lnet/minecraft/resources/ResourceLocation;
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity#getInventory()Lnet/minecraftforge/items/ItemStackHandler;
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity#getUsedRecipesAndPopExperience(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/phys/Vec3;)Ljava/util/List;
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity#kl$canCook(Lnet/minecraftforge/items/IItemHandlerModifiable;Ljava/util/function/Function;Ljava/util/function/Predicate;)Z
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleBlockEntity#getContainer()Lnet/minecraft/world/item/ItemStack;
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleBlockEntity#getInventory()Lnet/minecraftforge/items/ItemStackHandler;
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleBlockEntity#getMeal()Lnet/minecraft/world/item/ItemStack;
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleBlockEntity#getWater()I
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleBlockEntity#isHeated()Z
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleRecipe#getOutputContainer()Lnet/minecraft/world/item/ItemStack;
+
+#### FieldList
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity#usedRecipeTracker
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks#KETTLE
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks#KETTLE_RT
+
+#### MixinList
+[Success] dev.xkmc.youkaishomecoming.content.pot.base.BasePotBlockEntity
+[Success] dev.xkmc.youkaishomecoming.content.pot.kettle.KettleBlock
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:berry_minecraft、ModId： minecraft、ModVersion： 1.20.1
+### ClassStatistics
+ClassesCount: 0
+MethodCount: 0
+FieldCount: 0
+MixinCount: 0
+Errors: 0
+
+#### ClassesList
+NoClassesFound
+
+#### MethodsList 
+NoMethodFound
+
+#### FieldList
+NoFieldsFound
+
+#### MixinList
+NoMixinsFound
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:youkaishomecoming_fermentation_tank_fermentation、ModId： youkaishomecoming、ModVersion： 2.4.16
+### ClassStatistics
+ClassesCount: 13
+MethodCount: 10
+FieldCount: 12
+MixinCount: 0
+Errors: 0
+
+#### ClassesList
+[Success] com.tterrag.registrate.util.entry.BlockEntry
+[Success] com.tterrag.registrate.util.entry.RegistryEntry
+[Success] dev.xkmc.l2library.base.tile.BaseTank
+[Success] dev.xkmc.youkaishomecoming.content.item.fluid.IYHFluidHolder
+[Success] dev.xkmc.youkaishomecoming.content.item.fluid.SakeBottleItem
+[Success] dev.xkmc.youkaishomecoming.content.item.fluid.YHFluid
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationDummyContainer
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationItemContainer
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationRecipe
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationTankBlock
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationTankBlockEntity
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.SimpleFermentationRecipe
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks
+
+#### MethodsList 
+[Success] com.tterrag.registrate.util.entry.BlockEntry#asStack()Lnet/minecraft/world/item/ItemStack;
+[Success] com.tterrag.registrate.util.entry.RegistryEntry#get()Ljava/lang/Object;
+[Success] com.tterrag.registrate.util.entry.RegistryEntry#getId()Lnet/minecraft/resources/ResourceLocation;
+[Success] dev.xkmc.l2library.base.tile.BaseTank#isEmpty()Z
+[Success] dev.xkmc.youkaishomecoming.content.item.fluid.IYHFluidHolder#amount()I
+[Success] dev.xkmc.youkaishomecoming.content.item.fluid.IYHFluidHolder#asStack(I)Lnet/minecraft/world/item/ItemStack;
+[Success] dev.xkmc.youkaishomecoming.content.item.fluid.IYHFluidHolder#getContainer()Lnet/minecraft/world/item/Item;
+[Success] dev.xkmc.youkaishomecoming.content.item.fluid.SakeBottleItem#getFluid()Ldev/xkmc/youkaishomecoming/content/item/fluid/YHFluid;
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationDummyContainer#<init>(Ldev/xkmc/youkaishomecoming/content/pot/ferment/FermentationItemContainer;Ldev/xkmc/l2library/base/tile/BaseTank;)V
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationTankBlockEntity#notifyTile()V
+
+#### FieldList
+[Success] dev.xkmc.youkaishomecoming.content.item.fluid.YHFluid#type
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationTankBlock#OPEN
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationTankBlockEntity#fluids
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.FermentationTankBlockEntity#items
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.SimpleFermentationRecipe#defaultBottle
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.SimpleFermentationRecipe#defaultContainer
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.SimpleFermentationRecipe#ingredients
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.SimpleFermentationRecipe#inputFluid
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.SimpleFermentationRecipe#outputFluid
+[Success] dev.xkmc.youkaishomecoming.content.pot.ferment.SimpleFermentationRecipe#results
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks#FERMENT
+[Success] dev.xkmc.youkaishomecoming.init.registrate.YHBlocks#FERMENT_RT
+
+#### MixinList
+NoMixinsFound
+
+#### ClassAnalysisLogs
+
+## TaskId： maidsoulkitchen:fruit_compat、ModId： minecraft、ModVersion： 1.20.1
+### ClassStatistics
+ClassesCount: 0
+MethodCount: 0
+FieldCount: 0
+MixinCount: 0
+Errors: 0
+
+#### ClassesList
+NoClassesFound
+
+#### MethodsList 
+NoMethodFound
+
+#### FieldList
+NoFieldsFound
+
+#### MixinList
+NoMixinsFound
+
+#### ClassAnalysisLogs
+
+### AnalyzeLogsGlobally
+
+##ModList
+- smsn: 1.2.5+mc1.20.1
+- secondchanceforge: 1.5.1
+- almanac: 1.0.2
+- ftbessentials: 2001.2.3
+- supermartijn642configlib: 1.1.8
+- xenon: 0.3.31
+- rubidium: 0.7.1
+- embeddium: 0.3.31
+- playeranimator: 1.0.2-rc1+1.20
+- world_preview: 1.3.1
+- majruszsdifficulty: 1.9.10
+- gamemenuremovegfarb: 2.1.2
+- alternative_twilight: 1.20.1-1.1.0
+- modernfix: 5.24.3+mc1.20.1
+- maxhealthfix: 12.0.3
+- guardvillagers: 1.20.1-1.6.11
+- clickadv: 1.20.1-3.8
+- pickupnotifier: 8.0.0
+- balm: 7.3.33
+- puresuffering: 1.6.8.5R-LTS1
+- jeresources: 1.4.0.247
+- chat_heads: 0.13.18
+- cloth_config: 11.1.136
+- crash_assistant: 1.9.15
+- leavesbegone: 8.0.0
+- staaaaaaaaaaaack: 1.20.1-1.5-71
+- durabilitytooltip: 1.1.5
+- corpse: 1.20.1-1.0.21
+- tenshilib: 1.20.1-1.7.6
+- immersiveui: 0.3.0
+- bcc: 4.0.8
+- ironfurnaces: 4.1.6
+- supermartijn642corelib: 1.1.18
+- integrated_lucky_blocks: 1.0.0
+- servercore: 1.5.2+1.20.1
+- highlighter: 1.1.9
+- curios: 5.14.1+1.20.1
+- armorpointspp: 1.20-3.1.1
+- searchables: 1.0.3
+- attributeslib: 1.3.7
+- noisium: 2.3.0+mc1.20-1.20.1
+- tf_dnv: 1.2.2
+- sodiumoptionsmodcompat: 1.0.0
+- constructionwand: 1.20.1-2.11
+- deimos: 2.2
+- enhancedai: 2.7.0
+- l2library: 2.5.3
+- krypton: 0.2.3
+- mobtimizations: 1.20.1-1.0.0
+- playerrevive: 2.0.31
+- majruszlibrary: 7.0.8
+- difficultychaosintegration: 1.0.1-1.20.1
+- tslatentitystatus: 1.5.1
+- radium: 0.12.4+git.26c9d8e
+- confluence: 0.1.13
+- salwayseat: 5.2
+- questkilltask: 0.2.0+1.20.1-forge
+- l2tabs: 0.3.3
+- mutantmonsters: 8.0.7
+- endertrigon: 1.20.1-1.1
+- jei: 15.20.0.112
+- attributefix: 21.0.4
+- flerovium: 1.2.15
+- naturescompass: 1.20.1-1.11.2-forge
+- libx: 1.20.1-5.0.14
+- l2screentracker: 0.1.4
+- glitchcore: 0.0.1.1
+- neruina: 2.1.2
+- yakurum: 1.20.1-1.5
+- catalogue: 1.8.0
+- corpsecurioscompat: 3.0.2
+- puzzlesaccessapi: 20.1.1
+- nckey: 1.0.0
+- oworld2create: 0.0NONE
+- logbegone: 1.0.8
+- minecraft: 1.20.1
+- better_minoshroomtaur: 1.2.0
+- smoothchunk: 1.20.1-4.1
+- lucky: 1.20.1-13.0
+- voicechat: 1.20.1-2.5.35
+- sound_physics_remastered: 1.20.1-1.4.15
+- terrablender: 3.0.1.10
+- biomesoplenty: 19.0.0.96
+- fabric_api_base: 0.4.31+ef105b4977
+- mousetweaks: 2.25.1
+- nochatreports: 1.20.1-v2.2.2
+- shouldersurfing: 1.20.1-4.14.1
+- alltheleaks: 0.1.4-beta+1.20.1-forge
+- spectrelib: 0.13.17+1.20.1
+- skyblockbuilder: 1.20.1-5.1.27
+- ksyxis: 1.3.3
+- guccivuitton: 0.2.2
+- fastpaintings: 1.20-1.2.7
+- betterfpsdist: 1.20.1-6.0
+- polymorph: 0.49.10+1.20.1
+- cosmeticcorpsecompat: 1.0.0
+- xaeroplus: 2.27.6
+- xaerominimap: 25.2.10
+- immediatelyfast: 1.5.1+1.20.4
+- lootr: 0.7.35.91
+- bounced: 4.1.0-forge1.20.1
+- modernui: 3.11.1.6
+- puzzleslib: 8.1.32
+- healingbed: 1.20.1
+- extremesoundmuffler: 3.48
+- cosmeticarmorreworked: 1.20.1-v1a
+- explosiveenhancement: 1.1.0
+- phantasm: 1.0.1
+- euphoria_patcher: 1.6.5-r5.5.1-forge
+- xpbook: 2.2.1
+- defaultoptions: 18.0.1
+- enchantedbookredesign: 0
+- weaponmaster_ydm: 4.2.3
+- kuma_api: 20.1.10
+- youkaishomecoming: 2.4.16
+- netherportalfix: 13.0.1
+- geckolib: 4.7.3
+- taczaddon: 1.1.5
+- worldplaytime: 1.2.3
+- connectivity: 1.20.1-7.1
+- sophisticatedcore: 1.2.76.1038
+- insanelib: 1.21.14
+- xaeroworldmap: 1.39.12
+- controlling: 12.0.2
+- prism: 1.0.5
+- placebo: 8.6.3
+- citadel: 2.6.2
+- rats: 1.20.1-8.1.3
+- forge: 47.4.4
+- betterdays: 1.20.1-3.1.1.1-FORGE
+- zeta: 1.0-30
+- appleskin: 2.5.1+mc1.20.1
+- mixinextras: 0.5.0-beta.5
+- bookshelf: 20.2.13
+- sophisticatedbackpacks: 3.23.23.1285
+- relics: 0.8.0.9
+- jeed: 1.20-2.2.5
+- carryon: 2.1.2.7
+- sodiumoptionsapi: 1.0.10
+- baguettelib: 1.0.0
+- dragonfight: 1.20.1-4.6
+- dummmmmmy: 1.20-2.0.7
+- l2damagetracker: 0.3.7
+- twilightforest: 4.3.2508
+- sodiumdynamiclights: 1.0.9
+- rsinfinitybooster: 1.20.1-1.0+41
+- refinedstorage: 1.12.4
+- bulletarmorenchant: 1.0-1.20.1
+- crashexploitfixer: 1.1.0
+- farmersdelight: 1.20.1-1.2.8
+- thief: 1.2.0.1
+- boatiview: 0.0.5
+- longnbtkiller: 1.0.0
+- lionfishapi: 2.4-Fix
+- modelfix: 1.15
+- touhou_little_maid: 1.3.6
+- maidsoulkitchen: 0.2.4
+- maid_useful_task: 1.3.4
+- netmusic: 1.1.7
+- cataclysm: 3.09
+- patchouli: 1.20.1-84.1-FORGE
+- simplebedrockmodel: 1.2.1
+- collective: 8.3
+- ftbultimine: 2001.1.6
+- boatbreakfix: 1.0.2
+- architectury: 9.2.14
+- nerb: 0.4.1
+- ftblibrary: 2001.2.10
+- ftbfiltersystem: 20.0.1
+- ftbteams: 2001.3.1
+- ftbquests: 2001.4.13
+- ftbxmodcompat: 2.1.3
+- aiimprovements: 0.5.2
+- moreoverlays: 1.22.7-mc1.20.2
+- cupboard: 1.20.1-2.7
+- cherishedworlds: 6.1.7+1.20.1
+- lanserverproperties: 1.11.1
+- voidscape: 1.20.1-1.5.389
+- chunkloaders: 1.2.8a
+- letmedespawn: 1.5.0
+- chatimpressiveanimation: 1.3.0+mc1.20.4
+- wither_spawn_fix: 1.0.0
+- voidtotem: 3.0.1
+- tradingpost: 8.0.2
+- betteradvancements: 0.4.2.25
+- majruszsaccessories: 1.5.3
+- super_block_world: 0.0.8-1.20
+- rhino: 2001.2.3-build.10
+- cataclysm_tools: 2.0.0
+- trashslot: 15.1.2
+- treasuredistance: 1.20-1.2
+- asyncparticles: 2.0.1
+- amendments: 1.20-1.2.19
+- sophisticatedstorage: 1.3.55.1200
+- octolib: 0.5.0.1
+- particlerain: 1.1.3
+- tacz: 1.1.6-hotfix
+- lrtactical: 0.2.4
+- tp_shooting: 1.20.1-5.1.0
+- passivesearchbar: 1.0.0
+- expcounter: 2.1
+- traderefresh: 2.4.5
+- geckoanimfix: 1.0.0
+- waystones: 14.1.16
+- fastsuite: 5.1.0
+- clumps: 12.0.0.4
+- ezvcsurvival: 1.4.2
+- apotheosismix: 1.20.1-1.1.0
+- comforts: 6.4.0+1.20.1
+- artifacts: 9.5.16
+- configured: 2.2.3
+- crackerslib: 1.20.1-0.3.2.1
+- itemborders: 1.2.2
+- icterine: 1.3.0
+- aggroindicator: 1.1.3+forge1.20.1
+- particular: 1.2.4
+- everycomp: 1.20-2.8.13
+- shadowlands: 4.0
+- watut: 1.20.1-1.2.3
+- toofast: 0.4.3.5
+- craftingtweaks: 18.2.6
+- enchdesc: 17.1.19
+- borninconfiguration: 3.0.3
+- born_in_chaos_v1: 1.7
+- twilight_treehouses: 1.0.2.1
+- moonlight: 1.20-2.14.13
+- mixinsquared: 0.3.2-beta.4
+- visual_keybinder: 1.20.1 - 0.1.7
+- jade: 11.13.1+forge
+- l2harvester: 0.1.0
+- creativecore: 2.12.32
+- smoothboot: 0.0.4
+- iceberg: 1.1.25
+- fuze_relics: 1.0.9
+- quark: 4.0-462
+- tradeuses: 1.2.4
+- legendary_monsters: 1.20.1
+- inventoryhud: 3.4.26
+- coroutil: 1.20.1-1.3.7
+- ferritecore: 6.0.1
+- yet_another_config_lib_v3: 3.6.6+1.20.1-forge
+- solcarrot: 1.15.1
+- notrample: 1.20.1-1.0.1
+- charmofundying: 6.5.0+1.20.1
+- l2itemselector: 0.1.9
+- majruszsenchantments: 1.10.8
+- rarcompat: 0.1.7
+- refinedstorageaddons: 0.10.0
+- refinedpolymorph: 0.1.1-1.20.1
+- packetfixer: 3.1.4
+- improvedmobs: 1.20.1-1.13.6
+- expandability: 9.0.4
