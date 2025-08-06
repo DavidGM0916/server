@@ -1,10 +1,10 @@
 minecraft:overworld
-shadowlands:blood_forest
-shadowlands:glowshroom_forest
-super_block_world:mushroom_kingdom
 shadowlands:vellium
-shadowlands:shadow_forest
-minecraft:the_end
-voidscape:void
-twilightforest:twilight_forest
 minecraft:the_nether
+super_block_world:mushroom_kingdom
+shadowlands:shadow_forest
+twilightforest:twilight_forest
+shadowlands:blood_forest
+voidscape:void
+shadowlands:glowshroom_forest
+minecraft:the_end

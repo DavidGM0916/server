@@ -1,0 +1,17 @@
+{
+	id: "2bdb9c69-3af0-3f6f-a7ed-a68812245d2c"
+	type: "player"
+	player_name: "Cain"
+	ranks: {
+		2bdb9c69-3af0-3f6f-a7ed-a68812245d2c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cain"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF90"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
