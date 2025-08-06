@@ -386,7 +386,8 @@
       "potato": "2025-08-05 03:16:42 +0000",
       "bread": "2025-08-05 03:12:19 +0000",
       "golden_apple": "2025-08-05 04:04:31 +0000",
-      "rotten_flesh": "2025-08-05 02:14:42 +0000"
+      "rotten_flesh": "2025-08-05 02:14:42 +0000",
+      "cooked_salmon": "2025-08-06 21:32:21 +0000"
     },
     "done": false
   },
@@ -2636,6 +2637,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-06 21:34:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:06 +0000"
@@ -3056,6 +3063,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2025-08-06 21:31:31 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/trash_can": {
     "criteria": {
       "has_nugget": "2025-08-06 21:14:45 +0000"
@@ -3110,6 +3123,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/fish_barrel": {
+    "criteria": {
+      "has_fish": "2025-08-06 21:31:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-08-06 21:24:23 +0000"
@@ -3149,6 +3168,12 @@
   "youkaishomecoming:recipes/misc/wood_basin": {
     "criteria": {
       "has_iron_nugget": "2025-08-06 21:14:45 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_fish": "2025-08-06 21:31:31 +0000"
     },
     "done": true
   },

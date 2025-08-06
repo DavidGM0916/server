@@ -1405,7 +1405,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2025-08-05 03:30:23 +0000",
-      "bread": "2025-08-05 03:06:44 +0000"
+      "bread": "2025-08-05 03:06:44 +0000",
+      "cooked_salmon": "2025-08-06 21:32:19 +0000"
     },
     "done": false
   },
@@ -2117,6 +2118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-06 21:31:17 +0000"
+    },
+    "done": true
+  },
   "youkaishomecoming:recipes/misc/moka_kit": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
@@ -2132,6 +2139,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-08-06 21:35:41 +0000"
     },
     "done": true
   },
@@ -2171,6 +2184,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/ender_upgrade": {
+    "criteria": {
+      "has_eye": "2025-08-06 21:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
@@ -2180,6 +2199,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-06 21:31:26 +0000"
     },
     "done": true
   },
@@ -2291,9 +2316,21 @@
     },
     "done": true
   },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-08-06 21:35:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-08-06 21:35:41 +0000"
     },
     "done": true
   },
@@ -2333,6 +2370,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 21:31:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-06 21:19:50 +0000"
@@ -2363,6 +2406,12 @@
     },
     "done": true
   },
+  "yakurum:recipes/foods/diamond_apple": {
+    "criteria": {
+      "has_item_alt": "2025-08-06 21:31:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
@@ -2387,9 +2436,21 @@
     },
     "done": true
   },
+  "endertrigon:recipes/tools/dragon_horn": {
+    "criteria": {
+      "has_ender_eye": "2025-08-06 21:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-06 21:35:40 +0000"
     },
     "done": true
   },
@@ -2537,6 +2598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-06 21:31:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
@@ -2546,6 +2613,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-08-06 21:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-06 21:31:17 +0000"
     },
     "done": true
   },
