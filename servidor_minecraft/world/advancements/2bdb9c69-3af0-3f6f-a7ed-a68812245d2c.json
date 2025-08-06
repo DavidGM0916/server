@@ -105,10 +105,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "jacaranda_glade": "2025-08-05 04:01:00 +0000",
+      "coniferous_forest": "2025-08-06 21:38:19 +0000",
       "dune_beach": "2025-08-05 03:38:39 +0000",
+      "seasonal_forest": "2025-08-06 21:38:47 +0000",
       "pasture": "2025-08-05 02:34:28 +0000",
       "lavender_field": "2025-08-05 04:01:14 +0000",
-      "prairie": "2025-08-05 02:32:12 +0000"
+      "prairie": "2025-08-05 02:32:12 +0000",
+      "gravel_beach": "2025-08-06 21:38:17 +0000"
     },
     "done": false
   },
@@ -2118,6 +2121,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-08-06 21:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-08-06 21:31:17 +0000"
@@ -2136,9 +2145,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-06 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
     },
     "done": true
   },
@@ -2151,6 +2184,18 @@
   "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
     "criteria": {
       "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-06 21:44:37 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-08-06 21:40:24 +0000"
     },
     "done": true
   },
@@ -2190,6 +2235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
@@ -2208,9 +2259,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
     },
     "done": true
   },
@@ -2235,6 +2298,12 @@
   "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
     "criteria": {
       "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/crystal_tiles": {
+    "criteria": {
+      "has_end_stone": "2025-08-06 21:39:14 +0000"
     },
     "done": true
   },
@@ -2268,6 +2337,12 @@
     },
     "done": true
   },
+  "yakurum:recipes/combat/emerald_shield": {
+    "criteria": {
+      "has_item": "2025-08-06 21:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
@@ -2277,6 +2352,12 @@
   "sophisticatedstorage:recipes/misc/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/diamond_wand": {
+    "criteria": {
+      "has_item": "2025-08-06 21:41:48 +0000"
     },
     "done": true
   },
@@ -2292,6 +2373,18 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-06 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
   "youkaishomecoming:recipes/misc/dark_oak_handrail_from_dark_oak_planks_stonecutting": {
     "criteria": {
       "has_dark_oak_planks": "2025-08-06 21:19:50 +0000"
@@ -2301,6 +2394,12 @@
   "youkaishomecoming:recipes/building_blocks/sikkui_slab_from_sikkui_stonecutting": {
     "criteria": {
       "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-06 21:39:14 +0000"
     },
     "done": true
   },
@@ -2316,6 +2415,36 @@
     },
     "done": true
   },
+  "phantasm:recipes/building_blocks/raw_purpur_tiles": {
+    "criteria": {
+      "has_end_stone": "2025-08-06 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/purifying_liquid": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/tnt_upgrade": {
+    "criteria": {
+      "has_gunpowder": "2025-08-06 21:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-06 21:44:37 +0000"
+    },
+    "done": true
+  },
   "chunkloaders:recipes/misc/basic_chunk_loader": {
     "criteria": {
       "recipe_condition": "2025-08-06 21:35:41 +0000"
@@ -2328,6 +2457,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/big_bucket_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-08-06 21:35:41 +0000"
@@ -2337,6 +2472,18 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
     },
     "done": true
   },
@@ -2358,9 +2505,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
     },
     "done": true
   },
@@ -2418,6 +2577,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-06 21:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
@@ -2433,6 +2598,12 @@
   "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-06 21:39:14 +0000"
     },
     "done": true
   },
@@ -2460,9 +2631,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-06 21:45:32 +0000"
+    },
+    "done": true
+  },
   "youkaishomecoming:main/sweet": {
     "criteria": {
       "0": "2025-08-06 21:24:00 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/pickpocket_upgrade": {
+    "criteria": {
+      "has_emerald": "2025-08-06 21:45:32 +0000"
     },
     "done": true
   },
@@ -2487,6 +2670,12 @@
   "youkaishomecoming:recipes/building_blocks/sikkui_stairs": {
     "criteria": {
       "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/warrior_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
     },
     "done": true
   },
@@ -2529,6 +2718,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
     },
     "done": true
   },
@@ -2598,6 +2793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-06 21:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-06 21:31:17 +0000"
@@ -2610,6 +2811,12 @@
     },
     "done": true
   },
+  "yakurum:recipes/yakurum/emerald_shard": {
+    "criteria": {
+      "has_item": "2025-08-06 21:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-08-06 21:20:02 +0000"
@@ -2619,6 +2826,36 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-08-06 21:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-06 21:44:37 +0000"
+    },
+    "done": true
+  },
+  "phantasm:recipes/building_blocks/void_crystal_tiles": {
+    "criteria": {
+      "has_end_stone": "2025-08-06 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-06 21:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-06 21:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-06 21:39:14 +0000"
     },
     "done": true
   },

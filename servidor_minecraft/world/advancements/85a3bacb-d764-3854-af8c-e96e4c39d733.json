@@ -104,7 +104,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2025-08-06 21:38:23 +0000",
       "dune_beach": "2025-08-05 03:38:43 +0000",
+      "seasonal_forest": "2025-08-06 21:39:44 +0000",
       "pasture": "2025-08-05 02:34:32 +0000",
       "prairie": "2025-08-05 02:12:30 +0000"
     },
@@ -2595,9 +2597,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-06 21:44:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-08-06 21:24:22 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-08-06 21:40:39 +0000"
     },
     "done": true
   },
@@ -2793,6 +2807,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-06 21:43:46 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-08-06 21:15:15 +0000"
@@ -2898,6 +2918,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-06 21:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-06 21:44:58 +0000"
     },
     "done": true
   },
@@ -3216,6 +3242,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-08-06 21:24:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-08-06 21:44:02 +0000"
     },
     "done": true
   },
