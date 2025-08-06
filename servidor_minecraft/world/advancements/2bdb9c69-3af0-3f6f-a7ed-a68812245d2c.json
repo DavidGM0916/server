@@ -388,6 +388,7 @@
       "minecraft:sunflower_plains": "2025-08-05 02:42:05 +0000",
       "minecraft:beach": "2025-08-05 03:46:45 +0000",
       "minecraft:river": "2025-08-05 02:34:44 +0000",
+      "minecraft:stony_shore": "2025-08-06 21:11:27 +0000",
       "minecraft:ocean": "2025-08-05 03:59:01 +0000",
       "minecraft:flower_forest": "2025-08-05 03:00:33 +0000",
       "minecraft:plains": "2025-08-05 02:58:43 +0000"
@@ -2098,6 +2099,24 @@
   "sophisticatedstorage:recipes/misc/warped_chest": {
     "criteria": {
       "has_warped_plank": "2025-08-05 04:02:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-06 21:13:02 +0000"
+    },
+    "done": true
+  },
+  "yakurum:recipes/combat/hockey_helmet": {
+    "criteria": {
+      "has_alt_item2": "2025-08-06 21:10:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-06 21:14:01 +0000"
     },
     "done": true
   },
