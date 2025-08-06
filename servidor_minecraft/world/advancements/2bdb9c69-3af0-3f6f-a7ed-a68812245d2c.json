@@ -536,6 +536,8 @@
   },
   "youkaishomecoming:main/enthusiastic": {
     "criteria": {
+      "youkaishomecoming:roasted_lamprey_fillet": "2025-08-06 21:22:08 +0000",
+      "youkaishomecoming:matcha_mochi": "2025-08-06 21:24:00 +0000",
       "youkaishomecoming:yakumo_inari": "2025-08-05 02:42:49 +0000"
     },
     "done": false
@@ -548,6 +550,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2025-08-06 21:25:10 +0000",
       "minecraft:silverfish": "2025-08-05 03:55:00 +0000",
       "minecraft:zombie": "2025-08-05 02:44:34 +0000"
     },
@@ -2102,9 +2105,327 @@
     },
     "done": true
   },
+  "youkaishomecoming:recipes/misc/can_from_iron_ingot_stonecutting": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/manhole": {
+    "criteria": {
+      "has_bars": "2025-08-06 21:25:03 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/misc/moka_kit": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/misc/steamer_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-06 21:23:33 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/sikkui_slab": {
+    "criteria": {
+      "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/plague_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-06 21:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-08-06 21:13:02 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/sikkui_stairs_from_sikkui_stonecutting": {
+    "criteria": {
+      "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2025-08-06 21:20:01 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/misc/dark_oak_handrail_from_dark_oak_planks_stonecutting": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/sikkui_slab_from_sikkui_stonecutting": {
+    "criteria": {
+      "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-06 21:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/framed_sikkui": {
+    "criteria": {
+      "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-06 21:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-08-06 21:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_wheel": {
+    "criteria": {
+      "has_iron": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:main/sweet": {
+    "criteria": {
+      "0": "2025-08-06 21:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/sikkui_vertical_slab_from_sikkui_stonecutting": {
+    "criteria": {
+      "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/building_blocks/sikkui_stairs": {
+    "criteria": {
+      "has_sikkui": "2025-08-06 21:19:51 +0000"
     },
     "done": true
   },
@@ -2114,9 +2435,123 @@
     },
     "done": true
   },
+  "youkaishomecoming:recipes/building_blocks/sikkui_vertical_slab": {
+    "criteria": {
+      "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_whistle": {
+    "criteria": {
+      "has_iron": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/trash_can": {
+    "criteria": {
+      "has_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/cuisine_ordered/lorelei_nigiri": {
+    "criteria": {
+      "has_roasted_lamprey_fillet": "2025-08-06 21:17:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 21:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/rat_cage": {
+    "criteria": {
+      "has_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/decorations/rat_trap": {
+    "criteria": {
+      "has_iron": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-08-06 21:14:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-06 21:20:02 +0000"
+    },
+    "done": true
+  },
+  "youkaishomecoming:recipes/misc/sikkui_trap_door_from_sikkui_stonecutting": {
+    "criteria": {
+      "has_sikkui": "2025-08-06 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/platter_upgrade": {
+    "criteria": {
+      "has_iron": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-08-06 21:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-06 21:17:27 +0000"
     },
     "done": true
   },
