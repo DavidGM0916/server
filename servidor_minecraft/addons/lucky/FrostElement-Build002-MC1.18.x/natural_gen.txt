@@ -1,4 +1,0 @@
->minecraft:overworld
-
-/ single block
-type=block,ID=lucky:eleice_lucky_block@chance=200

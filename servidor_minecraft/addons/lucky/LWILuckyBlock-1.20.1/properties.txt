@@ -1,3 +1,0 @@
-spawnrate=80
-structureChance=0
-doDropsOnCreativeMode=false

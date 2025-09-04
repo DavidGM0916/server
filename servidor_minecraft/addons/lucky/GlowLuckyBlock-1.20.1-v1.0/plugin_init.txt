@@ -1,1 +1,0 @@
-block_id=glow_lucky_block

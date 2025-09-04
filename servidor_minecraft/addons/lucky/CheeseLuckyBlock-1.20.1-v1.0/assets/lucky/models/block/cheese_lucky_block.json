@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "lucky:block/cheese_lucky_block",
-		"particle": "lucky:block/cheese_lucky_block"
-    }
-}

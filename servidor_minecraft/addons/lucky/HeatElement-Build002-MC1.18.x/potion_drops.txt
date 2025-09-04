@@ -1,3 +1,0 @@
-/ === FIRE IN A BOTTLE ===
-
-group(type=fill,ID=fire,size=(3,3,3);type=block,ID=lava)

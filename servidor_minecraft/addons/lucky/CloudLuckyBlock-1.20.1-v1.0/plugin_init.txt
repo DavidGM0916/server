@@ -1,1 +1,0 @@
-block_id=cloud_lucky_block
