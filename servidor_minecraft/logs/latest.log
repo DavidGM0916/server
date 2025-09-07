@@ -1,58 +1,45 @@
-[21:43:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:43:46] [ServerMain/INFO]: Loaded 1407 recipes
-[21:43:46] [ServerMain/INFO]: Loaded 1520 advancements
-[21:43:47] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:43:47] [Server thread/INFO]: Loading properties
-[21:43:47] [Server thread/INFO]: Default game type: SURVIVAL
-[21:43:47] [Server thread/INFO]: Generating keypair
-[21:43:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:43:47] [Server thread/INFO]: Using epoll channel type
-[21:43:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:43:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:43:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:43:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:43:47] [Server thread/INFO]: Preparing level "world"
-[21:43:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:43:59] [Worker-Main-1/INFO]: Preparing spawn area: 61%
-[21:43:59] [Server thread/INFO]: Time elapsed: 10649 ms
-[21:43:59] [Server thread/INFO]: Done (11.639s)! For help, type "help"
-[21:44:25] [Server thread/INFO]: David123213[/127.93.139.19:45961] logged in with entity id 95 at (32.128952201937345, 65.52294296918642, -41.12120995199546)
-[21:44:25] [Server thread/INFO]: David123213 joined the game
-[21:45:04] [Server thread/INFO]: David123213 was killed
-[21:45:04] [Server thread/INFO]: [David123213: Killed 154 entities]
-[21:47:32] [Server thread/INFO]: [David123213: Set the time to 1000]
-[21:52:28] [Server thread/INFO]: RICHAVO_19[/127.57.89.165:53449] logged in with entity id 1847 at (24.302757489719315, 64.0, -45.55575061474626)
-[21:52:28] [Server thread/INFO]: RICHAVO_19 joined the game
-[21:52:34] [Server thread/INFO]: RICHAVO_19 lost connection: Disconnected
-[21:52:34] [Server thread/INFO]: RICHAVO_19 left the game
-[21:52:44] [Server thread/INFO]: paolonorbi[/127.180.234.17:56347] logged in with entity id 1891 at (5.5, 63.0, -72.5)
-[21:52:44] [Server thread/INFO]: paolonorbi joined the game
-[21:52:53] [Server thread/INFO]: [David123213: Teleported David123213 to paolonorbi]
-[21:52:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=8, y=65, z=-74}
-[21:52:57] [Server thread/INFO]: RICHAVO_19[/127.57.89.165:42829] logged in with entity id 1961 at (24.302757489719315, 64.0, -45.55575061474626)
-[21:52:57] [Server thread/INFO]: RICHAVO_19 joined the game
-[21:53:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=15, y=64, z=-68}
-[21:53:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=15, y=64, z=-68}
-[21:53:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=15, y=65, z=-68}
-[21:53:11] [Server thread/INFO]: [David123213: Made RICHAVO_19 a server operator]
+[21:05:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:05:18] [ServerMain/INFO]: No existing world data, creating new world
+[21:05:19] [ServerMain/INFO]: Loaded 1407 recipes
+[21:05:19] [ServerMain/INFO]: Loaded 1520 advancements
+[21:05:19] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:05:19] [Server thread/INFO]: Loading properties
+[21:05:19] [Server thread/INFO]: Default game type: SURVIVAL
+[21:05:19] [Server thread/INFO]: Generating keypair
+[21:05:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:05:20] [Server thread/INFO]: Using epoll channel type
+[21:05:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:05:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:05:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:05:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:05:20] [Server thread/INFO]: Preparing level "world"
+[21:05:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:05:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:36] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:37] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:38] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:39] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:40] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:41] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:42] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:05:45] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:05:46] [Server thread/INFO]: Time elapsed: 10782 ms
+[21:05:46] [Server thread/INFO]: Done (25.987s)! For help, type "help"
+[21:05:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:05:46] [Server thread/INFO]: chanotraidor.aternos.me<--[HERE]
+[21:05:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:05:46] [Server thread/INFO]: chanotraidor.aternos.me<--[HERE]
+[21:06:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
